@@ -7,7 +7,7 @@ To identify cognitive and demographic factors that influence the pace of sign la
 
 Dataset:
 
-Source: ASL-Play dataset from Databrary (https://databrary.org/volume/399)
+Source: ASL-Play dataset from Databrary (https://osf.io/3w8ka/files/osfstorage)
 
 Collected by: NYU Infant Action Lab (Karen Adolph et al.)
 
