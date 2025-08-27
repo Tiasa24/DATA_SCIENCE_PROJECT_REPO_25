@@ -35,14 +35,14 @@ Modeling Approach:
 
 Regression-based prediction of sign acquisition pace
 
-Models considered: Linear Regression, Random Forest Regressor
+Models considered: Linear Regression, Random Forest Regressor and LSTM
 
-Evaluation metrics: RMSE, MAE, R² Score
+Evaluation metrics: MSE, RMSE, MAE, R² Score
 
 Feature importance analysis included
 
 Data Type:
-Tabular data including categorical, continuous, and time-based variables
+Tabular data including categorical, continuous and time-based variables
 
 Version Control:
 
@@ -52,12 +52,12 @@ Data used in read-only mode
 
 All changes documented in GitHub repository
 
-Timeline Overview:
+Work Overview:
 
-Weeks 1–2: Dataset review and preprocessing
+Dataset review and preprocessing
 
-Weeks 3–4: Feature engineering and EDA
+Feature engineering and EDA
 
-Weeks 5–6: Model training and evaluation
+Model training and evaluation
 
-Week 7: Final analysis, write-up, and submission
+Optimisation, Final analysis, write-up and submission
